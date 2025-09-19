@@ -2,13 +2,13 @@
 # Hi there 👋, I'm Kamna Surjani
 
 ## 👩‍💼 About Me
-I'm a passionate **Business Analyst** with a Master's degree in Information Systems Management from W. P. Carey School of Business at Arizona State University. I have 5 years of experience in the field, specializing in data visualization, cloud technologies, and business process improvement.
+I'm an experienced analytics professional and Information Systems graduate with 6+ years leveraging SQL, Python, and Tableau to drive data insights. I have a proven track record in refining processes, forecasting trends, and delivering actionable insights for financial gains.
 
 ## 🔭 Work
-- Currently enhancing HR Processes at **[Arizona State University ]((https://eoss.asu.edu/)/)**
+- Currently enhancing AI processes at **[AlignShfit]((https://alignshift.com/)/)**
 
 ## 🌱 Learning
-- Currently delving into **Big Data Analytics**, **Business Intelligence**, **Cloud Deployment and Management**, and **AI in Business**
+- Currently delving into **Big Data Analytics**, **Machine Learning**, **AI Agents**, and **AI in Business**
 
 ## 💬 Ask Me About
 - **Data Visualization** with Tableau
@@ -44,8 +44,17 @@ I'm a passionate **Business Analyst** with a Master's degree in Information Syst
   June 2014 - June 2018
 
 ## 💼 Professional Experience
+- **AI Engineer**  
+  AlignShift, Chicago, USA.
+  May 2025 - Present
+  - Built n8n workflows with Apify, OpenRouter/Claude, and Slack to automate marketing content, cutting prep time by 90%.
+  - Automated the knowledge base so employees can get company answers via an AI chatbot, speeding cross-team coordination.
+  - Delivered a fit-size prediction model using body and garment data, boosting sizing accuracy and reducing apparel returns through advanced feature engineering
+    and validation.
+
+ 
 - **Business Analyst**  
-  Corpository – A Yubi Company  
+  Accumn, India
   January 2022 - February 2023  
   - Acted as Liaison between Product Managers and Technical team to understand business requirements.
   - Documented Business requirements, Functional and Technical specifications to create use cases.
@@ -55,7 +64,7 @@ I'm a passionate **Business Analyst** with a Master's degree in Information Syst
   - Negotiated sprint goals, reducing delivery time by 20%.
 
 - **Business Analyst**  
-  AlmaShines Technologies Pvt.Ltd  
+  AlmaShines Technologies Pvt.Ltd, India  
   July 2018 - December 2022  
   - Gathered and prioritized business requirements, conducted training sessions, and provided continuous support.
   - Analyzed performance data, delivered actionable reports, and ensured stakeholder satisfaction.
