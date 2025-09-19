@@ -71,6 +71,5 @@ I'm an experienced analytics professional and Information Systems graduate with 
   - Led a team of 5+ members, surpassing Key Performance Indicators (KPIs).
   - Executed the "ATOM" project, expanding company's reach and increasing conversion rate by 50% monthly.
 
-!--
-**ksurjani/ksurjani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+!--**ksurjani/ksurjani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
