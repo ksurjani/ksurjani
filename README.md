@@ -17,7 +17,7 @@ I'm an experienced analytics professional and Information Systems graduate with 
 - **Creating Business Documents** and Use Case Diagrams
 
 ## 📫 Contact
-- Email: ksurjani@asu.edu
+- Email: surjanikamna@gmail.com
 - LinkedIn: [Kamna Surjani](https://www.linkedin.com/in/kamna-surjani-24698a157/)
 
 ## 👨‍💻 Projects
